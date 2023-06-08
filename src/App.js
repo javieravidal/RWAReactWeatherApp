@@ -19,14 +19,14 @@ export default function App() {
           </a> 
           and is&#32; 
           <a
-            href="https://github.com/javieravidal/ReactWeatherApp"
+            href="https://github.com/javieravidal/RWAReactWeatherApp"
             target="_blank"
             rel="noopener noreferrer"
           >
             open-sourced on GitHub 
           </a> &#32;and 
           <a
-            href="https://cheery-shortbread-8440df.netlify.app"
+            href="https://aquamarine-druid-f7eedd.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
