@@ -1,0 +1,27 @@
+.container {
+    position: relative;
+    top: 20px; 
+    border: 2px solid rgb(173, 220, 226);
+    width: 550px;
+    height: 400px;
+    z-index: 1;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.footer {
+    font-size: 12px;
+    max-width: 600px;
+    display: flex;
+    margin-top: 30px;
+    margin-left:300px;
+    color: white;
+    opacity: 70%;
+}
+
+.App {
+    background-color: black;
+    height: 620px;
+    margin: 0;
+    
+}
