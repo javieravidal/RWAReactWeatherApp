@@ -1,4 +1,4 @@
-.container {
+.App .container {
     position: relative;
     top: 20px; 
     border: 2px solid rgb(173, 220, 226);
@@ -9,14 +9,16 @@
     background-color: black;
 }
 
-.footer {
+.App .footer {
+    position: relative;
     font-size: 12px;
-    max-width: 600px;
-    display: flex;
     margin-top: 30px;
-    margin-left:300px;
+    margin-left: auto;
+    margin-right: auto;
     color: white;
     opacity: 70%;
+    max-width: 520px;
+    z-index: 1;
 }
 
 .App {
