@@ -9,7 +9,15 @@ export default function App() {
         <Weather defaultCity="Fukuoka" />
         </div>
         <footer className="footer">
-          This project was coded by{" "}
+          This{" "}
+          <a
+            href="https://github.com/javieravidal/RWAReactWeatherApp"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open-sourced 
+          </a>
+          {" "}project was coded by{" "}
           <a
             href="https://www.javieravidal.io/"
             target="_blank"
@@ -17,14 +25,7 @@ export default function App() {
           >
             Javiera Vidal
           </a> 
-          and is&#32; 
-          <a
-            href="https://github.com/javieravidal/RWAReactWeatherApp"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            open-sourced on GitHub 
-          </a> &#32;and 
+          {" "}and is{" "}
           <a
             href="https://aquamarine-druid-f7eedd.netlify.app"
             target="_blank"
